@@ -1,6 +1,8 @@
 {
   "dependencies": {
     "and": "0.0.3",
+    npm i discord.js
+    npm i fs
     "anti-spam": "^0.2.7",
     "array-sort": "^1.0.0",
     "ascii-data-table": "^2.1.1",
